@@ -11,3 +11,5 @@ print("Datos:", datos)
     cantidad = len(datos)
     print("Cantidad de datos:", cantidad)
     print("\n--- Resultados del análisis ---")
+
+    print("Máximo:", max(datos))
