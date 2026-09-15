@@ -1,0 +1,1 @@
+print("Análisis de temperaturas")
