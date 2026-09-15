@@ -5,3 +5,4 @@ print("Temperaturas:", temperaturas)
 print("Análisis de temperaturas")
 
 print("Máxima:", max(temperaturas))
+print("Mínima:", min(temperaturas))
