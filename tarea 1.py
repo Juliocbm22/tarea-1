@@ -13,3 +13,4 @@ print("Datos:", datos)
     print("\n--- Resultados del análisis ---")
 
     print("Máximo:", max(datos))
+    print("Mínimo:", min(datos))
