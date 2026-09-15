@@ -14,3 +14,4 @@ print("Datos:", datos)
 
     print("Máximo:", max(datos))
     print("Mínimo:", min(datos))
+    print("Rango:", max(datos) - min(datos))
